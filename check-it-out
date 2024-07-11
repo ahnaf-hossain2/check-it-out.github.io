@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { 
+            /* Create a linear gradient background from sky blue to green */
+            background: linear-gradient(to bottom, skyblue, green);
+            /* Center content horizontally and vertically */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* Take up full viewport height */
+            height: 100vh;
+            /* Set large font size */
+            font-size: 5em;
+            /* No margin */
+            margin: 0;
+           /* Set text color to white */
+            color: white;
+           /* Set font family to Yatra One */
+            font-family: Yatra One;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>“La Ilaha illallah”</p>
+        <p>There is no god but Allah</p>
+    </div>
+</body>
+</html>
